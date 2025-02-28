@@ -8,9 +8,7 @@
 
 
 | 현대오토에버 모빌리티 SW스쿨 웹/앱 과정 앱 프로젝트
-<div >
-    <a href="https://chajava.store/">🚗 차자바 웹 뷰 사이트</a> 
-</div>
+
 <br/>
 
 
